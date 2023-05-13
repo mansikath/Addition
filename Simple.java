@@ -10,22 +10,8 @@ public class Simple {
     }
 }
 
-// class Efgd extends JFrame {
-// public Efgd(){
-// super("My JFrame"); // set the title of the JFrame
-// setLayout(new FlowLayout());
-// JLabel label = new JLabel("hello my name is Mansi");
-// JLabel label2 =new JLabel("hi hello");
-// add(label);
 
-// setVisible(true);
-// setSize(400,400);
 
-// setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set the default close
-// operation
-
-// }
-// }
 class Addition extends JFrame implements ActionListener{
     JTextField t1,t2;
     JButton btn;
